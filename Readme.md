@@ -6,7 +6,7 @@
 <!-- default file list end -->
 #  How to create cascaded ComboBoxes in a report's Parameters panel in an ASP.NET WebForm application
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t228313)**
+**[[Run Online]](https://codecentral.devexpress.com/t228313/)**
 <!-- run online end -->
 
 
